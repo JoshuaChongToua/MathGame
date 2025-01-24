@@ -4,7 +4,6 @@ import { useState, useEffect, useRef } from "react";
 const randomNumber = (max) => Math.floor(Math.random() * max);
 
 export default function App() {
-  // État pour définir les limites des nombres aléatoires
   const [maxNumber, setMaxNumber] = useState(50);
   const [numberOne, setNumberOne] = useState(() => randomNumber(50));
   const [numberTwo, setNumberTwo] = useState(() => randomNumber(50));
