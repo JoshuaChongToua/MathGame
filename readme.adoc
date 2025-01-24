@@ -1,0 +1,44 @@
+= Compte-rendu Math Game
+:toc:
+== Sommaire
+
+Réalisé par :
+
+- CHONG TOUA Joshua
+
+Date début : 01/2025
+
+== Contexte
+
+Premier projet react native, le but est de créer une application
+mobile de calcul mental.
+
+== Introduction
+
+Pour commencer le projet, j'ai initialisé le projet avec la
+commande "npx create-expo-app mathGame" puis je l'ai démarré avec la
+commande "npx expo start".
+
+
+== Attentes du projet
+
+L'application a pour but de choisir une difficulté et de pouvoir
+répondre au calcul
+
+== Fonctionnalités
+
+- Choix de la difficulté entre facile, moyen et difficile. En fonction
+de la difficulté le temps restant change et la limite max des nombres changent.
+
+- Pouvoir changer de difficulté pendant le jeu à l'aide du boutton
+"Change difficulty".
+
+- Affichage d'un message différent en fonction de la bonne ou mauvaise réponse
+ou du temps écoulé.
+
+- Relancer un calcul à l'aide du boutton "New Game".
+
+
+== Lien
+
+Lien github:
