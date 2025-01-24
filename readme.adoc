@@ -41,4 +41,4 @@ ou du temps écoulé.
 
 == Lien
 
-Lien github:
+Lien github: https://github.com/JoshuaChongToua/MathGame.git
